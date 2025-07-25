@@ -17,8 +17,14 @@ header {
 }
 
 section {
+    text-align: center;
     background-color: #f8f4ff;
     margin-top: 30px;
+}
+
+.section1 img {
+    width: 200px;
+    height: 200px;
 }
 
 nav a {
